@@ -1,10 +1,10 @@
 const collectionInfo = {
-    name: "Super Ape University",
+    name: "SPACE X APES",
     title: "{name}",
     date: "13.06.2022",
     socialMedia: {
-        discord: "https://discord.com/invite/bakedberserk",
-        twitter: "https://twitter.com/bakedberserk",
+        discord: "https://discord.com/",
+        twitter: "https://twitter.com/",
     },
     medias: {
         preview: "3LYI7ICl_o.gif",
