@@ -7,12 +7,12 @@ const collectionInfo = {
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "3LYI7ICl_o.gif",
+        preview: "1.gif",
         favicon: "logo.jpg",
     },
     background: {
         type: "image",
-        image: "1.gif",
+        image: "apeventura.gif",
         video: "",
         color: "#4E4E6D",
     }
