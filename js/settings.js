@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "SPACE X APES",
+    name: "Super Ape University",
     title: "{name}",
-    date: "13.06.2022",
+    date: "14.06.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
