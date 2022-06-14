@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Super Ape University",
+    name: "SOL Killer Bunnies",
     title: "{name}",
-    date: "14.06.2022",
+    date: "15.06.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -12,17 +12,17 @@ const collectionInfo = {
     },
     background: {
         type: "image",
-        image: "apeventura.gif",
+        image: "1.jpg",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 1.5,
+    price: 1,
     totalSupply: 100,
-    toFixed: 1.5,
+    toFixed: 1,
     minUnits: 1,
-    maxUnits: 3,
+    maxUnits: 5,
     askMintLoop: true,
 }
 
