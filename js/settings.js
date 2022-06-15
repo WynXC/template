@@ -8,7 +8,7 @@ const collectionInfo = {
     },
     medias: {
         preview: "2.png",
-        favicon: "logo.png",
+        favicon: "logo.jpg",
     },
     background: {
         type: "image",
