@@ -1,5 +1,5 @@
 const collectionInfo = {
-    name: "SOL Killer Bunnies",
+    name: "Aotuverse",
     title: "{name}",
     date: "15.06.2022",
     socialMedia: {
@@ -7,7 +7,7 @@ const collectionInfo = {
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "1.gif",
+        preview: "2.png",
         favicon: "logo.png",
     },
     background: {
@@ -18,11 +18,11 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1,
+    price: 2.5,
     totalSupply: 100,
-    toFixed: 1,
+    toFixed: 2.5,
     minUnits: 1,
-    maxUnits: 5,
+    maxUnits: 3,
     askMintLoop: true,
 }
 
