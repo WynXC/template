@@ -1,13 +1,13 @@
 const collectionInfo = {
-    name: "Kippoverse",
+    name: "Udder Chaos",
     title: "{name}",
-    date: "16.06.2022",
+    date: "17.06.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "ju_yavAr_400x400.jpg",
+        preview: "1.gif",
         favicon: "ju_yavAr_400x400.jpg",
     },
     background: {
@@ -18,7 +18,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 4,
+    price: 2,
     totalSupply: 100,
     toFixed: 0,
     minUnits: 1,
