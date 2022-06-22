@@ -1,26 +1,26 @@
 const collectionInfo = {
-    name: "New Degen Order",
+    name: "Elite Nerdz NFT",
     title: "{name}",
-    date: "21.06.2022",
+    date: "22.06.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "1.png",
+        preview: "1.gif",
         favicon: "logo.jpg",
     },
     background: {
         type: "image",
-        image: "bg.jpg",
+        image: "bg.png",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 2.5,
+    price: 2,
     totalSupply: 100,
-    toFixed: 1,
+    toFixed: 0,
     minUnits: 1,
     maxUnits: 3,
     askMintLoop: true,
