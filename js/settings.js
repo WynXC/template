@@ -1,26 +1,26 @@
 const collectionInfo = {
-    name: "Elite Nerdz NFT",
+    name: "Maskerade",
     title: "{name}",
-    date: "22.06.2022",
+    date: "23.06.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "1.gif",
+        preview: "1.jpg",
         favicon: "logo.jpg",
     },
     background: {
         type: "image",
-        image: "bg.png",
+        image: "bg.jpg",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 2,
-    totalSupply: 100,
-    toFixed: 0,
+    price: 3.5,
+    totalSupply: 8888,
+    toFixed: 1,
     minUnits: 1,
     maxUnits: 3,
     askMintLoop: true,
