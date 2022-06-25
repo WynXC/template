@@ -1,28 +1,28 @@
 const collectionInfo = {
-    name: "Maskerade",
+    name: "CopeTown",
     title: "{name}",
-    date: "23.06.2022",
+    date: "25.06.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "1.jpg",
+        preview: "1.gif",
         favicon: "logo.jpg",
     },
     background: {
         type: "image",
-        image: "bg.jpg",
+        image: "bg.jpeg",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 3.5,
-    totalSupply: 8888,
-    toFixed: 1,
+    price: 2,
+    totalSupply: 188,
+    toFixed: 0,
     minUnits: 1,
-    maxUnits: 3,
+    maxUnits: 1,
     askMintLoop: true,
 }
 
